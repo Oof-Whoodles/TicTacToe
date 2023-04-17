@@ -1,0 +1,66 @@
+img.square {
+  width: 150px;
+}
+
+#win-statement {
+  color: blue;
+  font-size: 64px;
+  font-weight: bold;
+  position: absolute;
+  left: 50px;
+  top: 485px;
+}
+
+#topleft {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
+
+#topmid {
+  position: absolute;
+  left: 205px;
+  top: 50px;
+}
+
+#topright {
+  position: absolute;
+  left: 360px;
+  top: 50px;
+}
+
+#midleft {
+  position: absolute;
+  left: 50px;
+  top: 205px;
+}
+
+#midmid {
+  position: absolute;
+  left: 205px;
+  top: 205px;
+}
+
+#midright {
+  position: absolute;
+  left: 360px;
+  top: 205px;
+}
+
+#bottomleft {
+  position: absolute;
+  left: 50px;
+  top: 360px;
+}
+
+#bottommid {
+  position: absolute;
+  left: 205px;
+  top: 360px;
+}
+
+#bottomright {
+  position: absolute;
+  left: 360px;
+  top: 360px;
+}
